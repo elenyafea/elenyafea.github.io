@@ -1,15 +1,1 @@
-{
-    "githubUsername": "elenyafea",
-    "blogTitle": "ELENYAFEA",
-    "blogDescribe": "HELLO WORLD",
-    "htmlTitle": "BLOG",
-    "fontColor": "#ffffff",
-    "useBackgroundImage": false,
-    "backgroundColorLeft": "#1690F9",
-    "backgroundColorRight": "#FC2D2D",
-    "audioUrl": " http://music.163.com/song/media/outer/url?id=26454907.mp3",
-    "mini": false,
-    "webSites":[
-        {"name":"v2ex" , "url":"https://www.v2ex.com/member/laziji"}
-    ]
-}
+{"githubUsername":"elenyafea","blogTitle":"ELENYAFEA","blogDescribe":"HELLO WORLD","htmlTitle":"BLOG","fontColor":"#ffffff","useBackgroundImage":false,"backgroundColorLeft":"#1690F9","backgroundColorRight":"#FC2D2D","audioUrl":" http://music.163.com/song/media/outer/url?id=26454907.mp3","mini":false,"webSites":[]}
